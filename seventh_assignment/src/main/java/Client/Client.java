@@ -16,7 +16,7 @@ public class Client
 
     private String username;
 
-    private static final String DOWNLOAD_DIRECTORY = "";
+    private static final String DOWNLOAD_DIRECTORY = "C:\\Users\\User\\Desktop\\New folder (3)\\Seventh-Assignment-Socket-Programming";
 
     public Client (String serverAddress, int serverPort)
     {
